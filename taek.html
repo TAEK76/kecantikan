@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skincare Cantik Natural</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #fff8f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #f8d6d6;
+            padding: 30px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            color: #d14d72;
+        }
+        .container {
+            padding: 20px;
+        }
+        .product {
+            margin-bottom: 40px;
+        }
+        .product img {
+            width: 100%;
+            max-width: 400px;
+            display: block;
+            margin: 0 auto;
+            border-radius: 8px;
+        }
+        .product h2 {
+            color: #b03b6d;
+        }
+        .product p {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #f8d6d6;
+            text-align: center;
+            padding: 15px;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Skincare Cantik Natural</h1>
+    <p>Rangkaian Produk Perawatan Kulit Alami dan Berkualitas</p>
+</header>
+
+<div class="container">
+    <!-- Produk 1 -->
+    <div class="product">
+        <img src="https://i.ibb.co/k3G6q8B/skincare1.jpg" alt="Cleanser">
+        <h2>1. Gentle Face Cleanser</h2>
+        <p>Pembersih wajah lembut berbahan dasar alami seperti chamomile dan green tea. Membantu membersihkan kotoran dan makeup tanpa membuat kulit kering.</p>
+    </div>
+
+    <!-- Produk 2 -->
+    <div class="product">
+        <img src="https://i.ibb.co/hY6tjk1/skincare2.jpg" alt="Toner">
+        <h2>2. Hydrating Toner</h2>
+        <p>Toner menyegarkan dengan kandungan aloe vera dan rose water. Menghidrasi kulit dan menyeimbangkan pH wajah.</p>
+    </div>
+
+    <!-- Produk 3 -->
+    <div class="product">
+        <img src="https://i.ibb.co/vVPXLMy/skincare3.jpg" alt="Serum">
+        <h2>3. Vitamin C Serum</h2>
+        <p>Serum pencerah kulit yang mengandung vitamin C dan hyaluronic acid untuk kulit lebih cerah dan kenyal.</p>
+    </div>
+
+    <!-- Produk 4 -->
+    <div class="product">
+        <img src="https://i.ibb.co/V3k0kLZ/skincare4.jpg" alt="Moisturizer">
+        <h2>4. Daily Moisturizer</h2>
+        <p>Pelembab harian dengan kandungan jojoba oil dan shea butter untuk menjaga kelembapan kulit sepanjang hari.</p>
+    </div>
+
+    <!-- Produk 5 -->
+    <div class="product">
+        <img src="https://i.ibb.co/xqhzJjv/skincare5.jpg" alt="Sunscreen">
+        <h2>5. Sunscreen SPF 50+</h2>
+        <p>Tabir surya dengan perlindungan tinggi terhadap sinar UVA dan UVB, tidak lengket dan cocok untuk semua jenis kulit.</p>
+    </div>
+</div>
+
+<footer>
+    <p>© 2025 Skincare Cantik Natural. Semua Hak Dilindungi.</p>
+</footer>
+
+</body>
+</html>
